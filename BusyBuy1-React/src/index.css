@@ -1,0 +1,70 @@
+
+body {
+  margin: 0;
+  font-family: Georgia, Helvetica, Tahoma, sans-serif, "Gaura Times", serif;
+  font-style: normal;
+  font-weight: 400;
+  color: rgb(51, 51, 51);
+  font-size: 15px;
+  line-height: 23px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+/* GOOGLE FONTS */
+.finlandica {
+  font-family: "Finlandica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kablammo {
+  font-family: "Kablammo", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 0;
+}
+
+.non-copyable {
+  -webkit-user-select: none; 
+  -moz-user-select: none;  
+  -ms-user-select: none;   
+  user-select: none;
+}
+
+
+
+/* About.js file */
+.about-container {
+  padding: 20px;
+  font-family: 'Finlandica', sans-serif;
+}
+
+.about-container h1.kablammo {
+  font-family: 'Kablammo', system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "MORF" 0;
+}
+
+.contact-details h2 {
+  margin: 10px 0;
+}
+
+.contact-details a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contact-details a:hover {
+  text-decoration: underline;
+}
