@@ -11,7 +11,9 @@ this dropdown component has following features:
 - Close the dropdown when an item is clicked or leaving the hover
 
 [Links]
--Hosted link :  -Demo Video :  -Github Repository : 
+-Hosted link :  
+-Demo Video :  
+-Github Repository : https://github.com/Hemendra-DCVS/React-World/tree/main/Dropdown-react1
 
 [Author]
 -Name : Hemendra
