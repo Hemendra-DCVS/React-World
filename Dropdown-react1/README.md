@@ -12,9 +12,9 @@ this dropdown component has following features:
 
 [Links]
 
--Hosted link :  https://youtu.be/n71DrcBRP1c?si=h8M14EN_MO_Aj89M
+-Hosted link :  https://dropdown-menu-1641c.web.app/
 
--Demo Video :  https://dropdown-menu-1641c.web.app/
+-Demo Video :  https://youtu.be/n71DrcBRP1c?si=h8M14EN_MO_Aj89M
 
 -Github Repository : https://github.com/Hemendra-DCVS/React-World/tree/main/Dropdown-react1
 
