@@ -1,0 +1,57 @@
+/* Root dropdown container */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Button */
+.dropdown-button {
+    background-color: #1F2937;
+    color: white;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 8px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the button */
+.dropdown-button:hover {
+    background-color: #4B5563; 
+}
+
+/* Dropdown menu */
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #F9FAFB; 
+    min-width: 200px; 
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); 
+    z-index: 1;
+    margin-top: 8px;
+    border-radius: 8px; 
+    overflow: hidden; 
+}
+
+/* Dropdown items */
+.dropdown-item {
+    color: #374151; 
+    padding: 12px 15px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect for dropdown items */
+.dropdown-item:hover {
+    background-color: #E5E7EB; 
+    color: #111827; 
+}
+
+/* Show the dropdown menu when the dropdown is open */
+.dropdown.open .dropdown-menu {
+    display: block;
+}
