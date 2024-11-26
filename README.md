@@ -10,8 +10,10 @@ https://busybuy-b56e5.web.app/
 "Dropdown menu" -  a simple dropdown component using React
 https://dropdown-menu-1641c.web.app/
 
-"aqua chat" - chat app ui like whatsapp using React
-https://aquerachat.web.app/
 
 "contacts list" - simple contact list react app with api sample data
 https://contact-list-react-aaa49.web.app/
+
+"aqua chat" - chat app ui like whatsapp using React
+https://aquerachat.web.app/
+
